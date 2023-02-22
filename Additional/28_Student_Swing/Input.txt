@@ -1,0 +1,3 @@
+rollno:1 Name:Abhinab Mark1:90 Mark2:98 Mark3:95
+rollno:2 Name:Abhiram Mark1:60 Mark2:58 Mark3:25
+rollno:3 Name:Adil Mark1:95 Mark2:88 Mark3:85
